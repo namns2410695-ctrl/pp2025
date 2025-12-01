@@ -2,5 +2,5 @@
 
 - Your student ID: **2410695**
 - Your name: **NguyenSyNam**
-- Your class: **ICT1**
+- Your class: **ICT2**
 
