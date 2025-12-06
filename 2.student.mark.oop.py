@@ -1,6 +1,4 @@
-# student_mark_oop.py
-# Practical work 2: OOP'ed student mark management
-# Proper attributes and methods, proper encapsulation, proper polymorphism
+
 
 class Student:
     def __init__(self, student_id, name, dob):
